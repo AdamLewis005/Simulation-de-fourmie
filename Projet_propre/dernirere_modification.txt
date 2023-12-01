@@ -1,0 +1,28 @@
+Mofication de la ligneeeeee 25 à 30
+création d'une nouvelle fonction de classe
+import math
+
+Ajout de :
+if self.state == "searching": ligne 38
+elif (self.state == "colect"):ligne 133
+
+2 fonction à la fin du code
+
+
+des modification dans nest.py / ant. py / mainwindow.py / resource.py
+
+ant.py : Un peu partout
+
+nest.py : 
+Store resource
+pop ant
+ajout d'une fonction update nest id 
+
+mainwindow.py : 
+Dans la class canvas
+fonction draw des modifications pour le nest 
+
+resource.py :
+a check
+
+
